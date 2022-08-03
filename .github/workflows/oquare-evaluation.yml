@@ -21,6 +21,4 @@ jobs:
           
       - name: OQuaRE module
         uses: Emdien/oquare-metrics@v2
-        with:
-          ontology-folders: oquare-test
-          contents-folder: OQuaRe
+      
