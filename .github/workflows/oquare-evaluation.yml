@@ -23,5 +23,6 @@ jobs:
         uses: Emdien/oquare-metrics@v2
         with:
           ontology-folders: ontologies
+          evolution-plot: false
           release: true
       
